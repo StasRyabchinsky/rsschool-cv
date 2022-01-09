@@ -34,7 +34,31 @@ header {
   line-height: 50px;
   text-decoration: none;
 }
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
+  .nav-link {
+    padding: 0 10px;
+    line-height: 20px;
+  }
+
+  /* @media (max-width: 768px) {
+  .nav-link .nav-list:after .nav-list:before {
+    height: 3px;
+    width: 100%;
+    position: absolute;
+    background: #515758;
+    margin: 0 auto;
+  }
+  .nav-link {
+    top: 21px;
+  }
+
+  .nav-list:after .nav-list:before {
+    content: "";
+  }
+  .nav-list:after .nav-list:before {
+    bottom: 5px;
+  } */
+
   .nav-list {
     display: block;
   }
