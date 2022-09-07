@@ -1,6 +1,4 @@
-![my photo][1]
-
-[1]: C:\Users\Mr.Green\Pictures\Птичь\my.jpg
+![my photo](/assets/img/my.jpg)
 
 # STANISLAV RYABCHINSKY
 
