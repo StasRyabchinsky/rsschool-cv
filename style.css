@@ -1,4 +1,4 @@
-html {
+/* html {
     scroll-behavior: smooth;
   }
   body {
@@ -46,7 +46,7 @@ html {
       line-height: 20px;
     }
   
-    /* @media (max-width: 768px) {
+    @media (max-width: 768px) {
     .nav-link .nav-list:after .nav-list:before {
       height: 3px;
       width: 100%;
@@ -63,7 +63,7 @@ html {
     }
     .nav-list:after .nav-list:before {
       bottom: 5px;
-    } */
+    }
   
     .nav-list {
       display: block;
@@ -88,7 +88,7 @@ html {
       display: block;
     }
     .myPhoto {
-      /* max-width: 100px; */
+      max-width: 100px;
   
       margin: 1% auto 1%;
     }
@@ -124,4 +124,4 @@ html {
     width: 80%;
     height: 2px;
   }
-  
+   */
